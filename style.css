@@ -1,0 +1,50 @@
+.main {
+    display: flex;
+    background-color: #1F2937;
+    flex-direction: column;
+    color:#F9FAF8;
+    width: 100vh;
+    height: 25%;
+    padding: 30px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.headertwo {
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+
+.headertwo b {
+   word-wrap: break-word;
+}
+
+.l {
+    display: flex;
+    gap: 8px;
+    list-style: none;
+}
+
+.head {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 150px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.port {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
